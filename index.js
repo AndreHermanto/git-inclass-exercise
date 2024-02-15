@@ -12,3 +12,11 @@ function substract(a,b){
 function squareRoot(a){
     return Math.sqrt(a)
 }
+
+function helloWorld(){
+    return "Hello World";
+}
+
+function greeting(name){
+    return "Hello " + name
+}
