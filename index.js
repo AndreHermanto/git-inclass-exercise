@@ -7,4 +7,8 @@ function multiply(c,b){
 }
 function substract(a,b){
     return a-b;
+} 
+
+function squareRoot(a){
+    return Math.sqrt(a)
 }
